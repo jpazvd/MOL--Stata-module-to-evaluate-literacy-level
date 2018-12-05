@@ -1,8 +1,5 @@
 # MOL: Stata module to evaluate literacy level
 
-##Suggested Citation
-[Joao Pedro Azevedo, 2008. "MOL: Stata module to evaluate literacy level," Statistical Software Components S456987, Boston College Department of Economics.](https://ideas.repec.org/c/boc/bocode/s456987.html)
-
 ## Description
 
 A country's overall level of literacy is usually measured by taking the number of adults who are
@@ -46,20 +43,20 @@ format(%fmt) specifies the format to be used to display the estimated inequality
      R* :  Externality-adjusted Literacy Rate (Subramanian, 2004).
 
 
+## Suggested Citation
+[Joao Pedro Azevedo, 2008. "MOL: Stata module to evaluate literacy level," Statistical Software Components S456987, Boston College Department of Economics.](https://ideas.repec.org/c/boc/bocode/s456987.html)
+
 ## Reference
 
-     Basu, Kaushik and Foster, James E. (1998) On measuring literacy. Economic Journal, vol.108,
-          no.451, Nov., pp.1733-1749.
+Basu, Kaushik and Foster, James E. (1998) On measuring literacy. Economic Journal, vol.108, no.451, Nov., pp.1733-1749.
 
-     Sen, A. (1985), Commodities and Capability. Amsterdam: North-Holland.
+Sen, A. (1985), Commodities and Capability. Amsterdam: North-Holland.
 
-     Subramanian, S (2004) Measuring literacy: some extensions of the Basu-Foster framework.
-          Journal of Development Economics, vol.73, pp453-463.
+Subramanian, S (2004) Measuring literacy: some extensions of the Basu-Foster framework. Journal of Development Economics, vol.73, pp453-463.
 
+#### Handle: RePEc:boc:bocode:s456987 
 
-### Handle: RePEc:boc:bocode:s456987 
+#### Note: This module should be installed from within Stata by typing "ssc install mol". Windows users should not attempt to download these files with a web browser.
 
-### Note: This module should be installed from within Stata by typing "ssc install mol". Windows users should not attempt to download these files with a web browser.
-
-### Keywords
+#### Keywords
 literacy; effective literacy
