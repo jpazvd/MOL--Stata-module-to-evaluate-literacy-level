@@ -33,14 +33,11 @@ format(%fmt) specifies the format to be used to display the estimated inequality
 
 ### Output Variables
 
-     R:	'Crude' Literacy Rate .
-     Re:	Effective Literacy [alpha = household literacy rate].
-     (1-I):	Isolated Rate of Literacy (1-I).
-     I:	Isolated Rate of Illiteracy (1-I).
-     Q:	Efficiency Loss. Q is contained within the interval [0,1]: Q= 0 when I = 0, 
-		and Q= 1 when I=1-R (which, of course, is the maximum value I can attain, 
-		corresponding to a situation in which all illiterates are isolated illiterates).
-     R*:Externality-adjusted Literacy Rate (Subramanian, 2004).
+- R:	'Crude' Literacy Rate .
+- Re:	Effective Literacy [alpha = household literacy rate].
+- I:	Isolated Rate of Illiteracy (1-I).
+- Q:	Efficiency Loss. Q is contained within the interval [0,1]: Q= 0 when I = 0,  and Q= 1 when I=1-R (which, of course, is the maximum value I can attain, corresponding to a situation in which all illiterates are isolated illiterates).
+- R*:Externality-adjusted Literacy Rate (Subramanian, 2004).
 
 
 ## Suggested Citation
