@@ -57,3 +57,11 @@ Subramanian, S (2004) Measuring literacy: some extensions of the Basu-Foster fra
 
 #### Keywords
 literacy; effective literacy
+
+## Author: 
+
+  **João Pedro Azevedo**  
+  [jazevedo@worldbank.org](mailto:jazevedo@worldbank.org)  
+  World Bank  
+  [personal page](http://www.worldbank.org/en/about/people/j/joao-pedro-azevedo)  
+
